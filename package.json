@@ -1,0 +1,31 @@
+{
+  "name": "generator-node-ts-chapi-chapi",
+  "version": "1.0.0",
+  "description": "Yeoman generator for scaffolding typescript node libraries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chapi-chapi/generator-node-ts.git"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "generator",
+    "node",
+    "ts",
+    "typescript",
+    "yo",
+    "chapi-chapi"
+  ],
+  "author": "Thomas Randell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chapi-chapi/generator-node-ts/issues"
+  },
+  "homepage": "https://github.com/chapi-chapi/generator-node-ts#readme",
+  "dependencies": {
+    "yeoman-generator": "^4.7.2"
+  }
+}
